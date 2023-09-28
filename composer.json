@@ -1,0 +1,10 @@
+{
+    "name": "destiny/application",
+    "authors": [
+        {
+            "name": "KSHDestiny",
+            "email": "kaungsathein.5899@gmail.com"
+        }
+    ],
+    "require": {}
+}

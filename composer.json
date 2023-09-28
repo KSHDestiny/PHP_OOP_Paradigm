@@ -6,5 +6,15 @@
             "email": "kaungsathein.5899@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/database": "^10.25",
+        "symfony/var-dumper": "^6.3",
+        "symfony/http-foundation": "^6.3"
+    },
+    "autoload": {
+        "files": ["helper.php"],
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
 }

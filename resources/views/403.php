@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>404 not Found</h1>
+    <h1>403 Forbidden</h1>
 </body>
 </html>
